@@ -1,5 +1,6 @@
 Lauren Jackson
 lkj8pmd
+9-29-21
 
 https://leetcode.com/problems/valid-parentheses/submissions/
 
