@@ -1,4 +1,4 @@
-//Eloise Cunningham, Evc2bds 
+//Eloise Cunningham, Evc2bds
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
